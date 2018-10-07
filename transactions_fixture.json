@@ -1,0 +1,27 @@
+[
+    {
+        "timestamp": "2018-10-05T12:03:17-03:00",
+        "amount": "10.00",
+        "payment_method": "creditcard"
+    },
+    {
+        "timestamp": "2018-10-05T12:05:17-03:00",
+        "amount": "12.00",
+        "payment_method": "debitcard"
+    },
+    {
+        "timestamp": "2018-10-05T12:10:17-03:00",
+        "amount": "3.00",
+        "payment_method": "creditcard"
+    },
+    {
+        "timestamp": "2018-10-06T12:03:17-03:00",
+        "amount": "20.00",
+        "payment_method": "paylater"
+    },
+    {
+        "timestamp": "2018-10-07T12:03:17-03:00",
+        "amount": "10.00",
+        "payment_method": "paylater"
+    }
+]
